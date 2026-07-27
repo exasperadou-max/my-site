@@ -20,8 +20,8 @@
 - └── soggy.png
 
 ## More info
-I built it with HTML5, CSS3 and Vanilla JavaScript
-I used Fraunces and Inter fonts via Google Fonts
+- I built it with HTML5, CSS3 and Vanilla JavaScript
+- I used Fraunces and Inter fonts via Google Fonts
 
 ## URL
 - https://exasperadou-max.github.io/my-site/
