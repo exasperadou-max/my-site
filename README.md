@@ -1,5 +1,5 @@
 # My Personal Site
-My digital portfolio site
+- My digital portfolio site
 
 ## Features
 - Light/Dark mode toggle
@@ -24,5 +24,5 @@ I built it with HTML5, CSS3 and Vanilla JavaScript
 I used Fraunces and Inter fonts via Google Fonts
 
 ## URL
-https://exasperadou-max.github.io/my-site/
+- https://exasperadou-max.github.io/my-site/
 
