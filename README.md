@@ -2,9 +2,9 @@
 My digital portfolio site
 
 ## Features
--Light/Dark mode toggle
--Cool simple animations
--Song embed that changes randomly every time you enter the page via Spotify
+- Light/Dark mode toggle
+- Cool simple animations
+- Song embed that changes randomly every time you enter the page via Spotify
 
 ## Sections
 
@@ -14,10 +14,10 @@ My digital portfolio site
 - **Contact** — email, GitHub, Instagram links
 
 ## Project Structure
-├── index.html
-├── style.css
-├── script.js
-└── soggy.png
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- └── soggy.png
 
 ## More info
 I built it with HTML5, CSS3 and Vanilla JavaScript
